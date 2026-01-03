@@ -1,0 +1,8 @@
+{
+  "name": "WebBug Detector & Reporter",
+  "description": "An AI-powered tool that analyzes websites for accessibility, performance, and security bugs, providing detailed reports and solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
